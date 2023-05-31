@@ -1,0 +1,110 @@
+body {
+  background-image: url(imge/fondouno.jpg);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.established {
+  font-style: italic;
+}
+
+.content-pharagraf {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+.Menu {
+  width: 80%;
+  background-color: rgba(252, 190, 247, 0.874);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 160px;
+}
+
+hr {
+  height: 2px;
+  background-color: rgb(36, 194, 222);
+  border-color: rgb(36, 194, 222);
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+h1,
+h2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.flavor,
+.dessert {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+/*FOTTER*/
+
+fotter {
+  font-size: 14px;
+}
+
+.footer-lista li {
+  color: rgb(62, 22, 22);
+}
+.footer-lista li a{
+  color: rgb(69, 52, 19);
+}
+
+.address {
+  margin-bottom: 5px;
+}
+
+a {
+  color: rgb(10, 142, 152);
+}
+
+a:visited {
+  color: rgb(10, 142, 152);
+}
+a:hover {
+  color: rgb(25, 211, 22);
+}
+
+a:active {
+  color: rgb(25, 211, 22);
+}
